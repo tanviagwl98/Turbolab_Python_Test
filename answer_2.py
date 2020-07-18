@@ -18,5 +18,5 @@ if __name__ == '__main__':
     print(str(result) + '\n')
     
     
-    OUTPUT for - (())()
-    ()
+   # OUTPUT for - (())()
+   # ()
